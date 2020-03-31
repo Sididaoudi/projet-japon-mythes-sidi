@@ -110,6 +110,7 @@ ul{ border:0; margin:0; padding:0; }
 
 .img 
 {
+  
   width: 350px;
   padding: 20px;
 }
@@ -126,13 +127,16 @@ p
 
 .article 
 {
+   
    background-color: white;
    padding: 20px;
    margin-top: 20px;
 }
 
 
-.article2 {
+.article2 
+{
+
    background-color: white;
    padding: 20px;
    margin-top: 20px;
@@ -151,6 +155,7 @@ p
 .akamataa
 {
 
+
    background-color:;
    padding: 20px;
    padding: 10px;
@@ -158,8 +163,57 @@ p
 
 }
 
+#demo {
+  height:100%;
+  position:relative;
+  overflow:hidden;
+}
+
+
+.green{
+  background-color:#6fb936;
+}
+        .thumb{
+            margin-bottom: 30px;
+        }
+        
+        .page-top{
+            margin-top:85px;
+        }
+
+   
+img.zoom {
+    width: 100%;
+    height: 200px;
+    border-radius:5px;
+    object-fit:cover;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+}
+        
+ 
+.transition {
+    -webkit-transform: scale(1.2); 
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+    .modal-header {
+   
+     border-bottom: none;
+}
+    .modal-title {
+        color:#000;
+    }
+    .modal-footer{
+      display:none;  
+    }
+
 footer {
     display: flex;
+
     font-size: 20px;
     justify-content: center;
     margin-top: 550px;

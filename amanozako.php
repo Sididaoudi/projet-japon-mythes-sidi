@@ -13,12 +13,16 @@
 
 	<div class="Amanozako">
 
-		<h2>Azukitogi</h2>
+		<h2>Amanozako</h2>
 
       <div class="Amanozako">
       <a href="amanozako.php"><img src="img/Amanozako.jpg" width=350px"></a>
       </div>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod.</p>
+      <p>
+      Amanozako (天逆毎?) est une monstrueuse déesse de la mythologie japonaise. On la mentionne notamment dans le Kujiki.
+
+      </p>
+    
     </div>
 
 	
