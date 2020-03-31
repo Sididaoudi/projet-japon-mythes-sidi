@@ -14,17 +14,33 @@
 
     <div class="article">
       <h2>Akamataa</h2>
-      <h5>31 Mars , 2020</h5>
-      <div class="img"><img src="img/1.jpg" width=350px"></div>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <h3>31 Mars , 2020</h3>
+      <div class="img">
+      <a href="akamataa.php"><img src="img/1.jpg" width=350px"></a>
+      </div>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod.</p>
     </div>
 
-    <div class="article">
-      <h2>Akuma<h2>
-      <h5>31 Mars, 2020</h5>
-      <div class="img"><img src="img/.jpg" width=350px"></div>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <div class="article2">
+      <h2>Amanozako<h2>
+      <h3>31 Mars, 2020</h3>
+      <a href="amanozako.php"><img src="img/Amanozako.jpg" width=350px"></a>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod.</p>
     </div>
+
+    <div class="column">
+
+     <div class="article3">
+      <h2>Azukitogio<h2>
+      <h3>31 Mars, 2020</h3>
+      <a href="azukitogi.php"><img src="img/Azukitogi.jpg" width=350px"></a>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod.</p>
+    </div>
+
+    <div class="column">
+
+
+
 	
 	</div>
  
