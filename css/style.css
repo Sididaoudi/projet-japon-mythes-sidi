@@ -38,58 +38,37 @@ li a:hover:not(.active) {
 
 ul{ border:0; margin:0; padding:0; }
 
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
 
-#pagination-flickr li
-{
-    border:0; 
-    margin:0; 
-    padding:0;
-    font-size:11px;
-    list-style:none;
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
 }
- 
-#pagination-flickr a
-{
-    border:solid 1px #DDDDDD;
-    margin-right:2px;
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
- 
-#pagination-flickr .previous-off, #pagination-flickr .next-off 
-{
-    color:#666666;
-    display:block;
-    float:left;
-    font-weight:bold;
-    padding:3px 4px;
+
+input[type=submit]:hover {
+  background-color: #45a049;
 }
- 
-#pagination-flickr .next a, #pagination-flickr .previous a 
-{
-    font-weight:bold;
-    border:solid 1px #FFFFFF;
-}
- 
-#pagination-flickr .active
-{
-    color:#ff0084;
-    font-weight:bold;
-    display:block;
-    float:left;
-    padding:4px 6px;
-}
- 
-#pagination-flickr a:link, #pagination-flickr a:visited 
-{
-    color:#0063e3;
-    display:block;
-    float:left;
-    padding:3px 6px;
-    text-decoration:none;
-}
- 
-#pagination-flickr a:hover
-{
-    border:solid 1px #666666;
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
 }
 
 /* Header/Blog Title */
@@ -210,6 +189,8 @@ img.zoom {
     .modal-footer{
       display:none;  
     }
+
+
 
 footer {
     display: flex;

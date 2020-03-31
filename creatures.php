@@ -21,6 +21,8 @@
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod.</p>
     </div>
 
+    
+
     <div class="article2">
       <h2>Amanozako<h2>
       <h3>31 Mars, 2020</h3>
@@ -40,7 +42,7 @@
     <div class="column">
 
 
-    	
+
 
 
 	
