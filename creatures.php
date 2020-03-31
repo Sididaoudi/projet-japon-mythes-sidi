@@ -3,14 +3,10 @@
 <head>
 	<title>Creatures</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="Css/style.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-		<a href="index.php">
-		<img src="img/logo.png"></a>
-
-
 		<?php include("nav.php"); ?>
 
 

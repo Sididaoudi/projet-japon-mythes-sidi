@@ -3,22 +3,12 @@
 <head>
 	<title>Accueil</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="Css/style.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
+		<?php include("nav.php"); ?>
 
-	<a href="index.php">
-		<img src="img/logo.png"></a>
-
-		<nav>
-			<ul>
-				<li><a href="index.php">Accueil</a></li>
-				<li><a href="creatures.php">Créatures</a></li>
-				<li><a href="galerie.php">Galerie</a></li>
-				<li><a href="contact.php">Contact</a></li>
-			</ul>
-		</nav>
 
 
 
