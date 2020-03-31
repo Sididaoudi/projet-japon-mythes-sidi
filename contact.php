@@ -26,7 +26,7 @@
     </select>
 
     <label for="subject">Sujet</label>
-    <textarea id="subject" name="subject" placeholder="..." style="height:200px"></textarea>
+    <textarea id="subject" name="subject" placeholder="..." style="height:60px"></textarea>
 
     <input type="submit" value="Envoyer">
 

@@ -29,11 +29,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-          <img src="img/1.jpg" alt="Akamataa">
+          <img src="img/kitsune.jpg" alt="" width=320px height=520px>
           </figure>
           <div class="card-content">
-            <h2>Akamataa</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur consectetur fugit molestias perferendis, sint error iste ut, facilis sunt natus optio dolor nesciunt laboriosam obcaecati corporis numquam.</p>
+            <h2>Kitsune</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur.</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -43,12 +43,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="img/Amanozako.jpg" alt="">
+            <img src="img/Amanozako.jpg" width=300px>
           </figure>
           <div class="card-content">
             <h2>Amanozako</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur consectetur fugit molestias perferendis, sint error iste ut, facilis sunt natus optio dolor nesciunt laboriosam obcaecati corporis numquam?</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur consectetur fugit molestias perferendis, sint error iste ut, facilis sunt natus optio dolor nesciunt laboriosam obcaecati corporis numquam?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -58,11 +57,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="img/Azukitogi.jpg" alt="">
+            <img src="img/Azukitogi.jpg" width="300px">
           </figure>
           <div class="card-content">
             <h2>Azukitogio</h2>
-            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus dicta cumque nostrum, autem eaque soluta atque voluptatem est et, laborum dignissimos error sequi non? Recusandae, aut alias.</p>
+            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus.</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -72,26 +71,27 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="http://placekitten.com/816/600" alt="meow">
+            <img src="img/baku.jpg" width=300px>
           </figure>
           <div class="card-content">
-            <h2>Patches</h2>
-            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus dicta cumque nostrum, autem eaque soluta atque voluptatem est et, laborum dignissimos error sequi non? Recusandae, aut alias.</p>
+            <h2>baku</h2>
+            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus.</p>
           </div>
           <!-- .card-content -->
         </a>
       </article>
       <!-- .card -->
 
+
+
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-          <img src="http://placekitten.com/820/620" alt="meow">
+          <img src="img/Basan.jpg" width=300px>
           </figure>
           <div class="card-content">
-            <h2>Duchess</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus dicta cumque nostrum, autem eaque soluta atque voluptatem est et, laborum dignissimos error sequi non? Recusandae, aut alias.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus dicta cumque nostrum, autem eaque soluta atque voluptatem est et, laborum dignissimos error sequi non? Recusandae, aut alias.</p>
+            <h2>Basan</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -101,11 +101,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-          <img src="http://placekitten.com/810/610" alt="meow">
+          <img src="img/Chimi-Moryo.jpg" width=300px>
           </figure>
           <div class="card-content">
             <h2>Puchies</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus dicta cumque nostrum, autem eaque soluta atque voluptatem est et, laborum dignissimos error sequi non? Recusandae, aut alias.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -119,7 +119,16 @@
   <!-- .centered -->
 
 </main>
-
+  
+  <div class="container">
+  <ul class="pagination">
+    <li><a href="#">1</a></li>
+    <li class="active"><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+  </ul>
+</div>
 
 
 </body>

@@ -1,6 +1,5 @@
 body {font-family: sans-serif;}
 
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -130,7 +129,7 @@ body {
 }
 
 img {
-  width: 100%;
+  height: auto;
 }
 
 /* Flexbox styles */
