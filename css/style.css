@@ -92,12 +92,43 @@ ul{ border:0; margin:0; padding:0; }
     border:solid 1px #666666;
 }
 
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+
+.column {   
+  float: left;
+  width: 75%;
+}
+
+
+
+.img {
+  background-color: #aaa;
+  width: 350px;
+  padding: 20px;
+  color-font: #F40D0D;
+}
+
+
+.article {
+   background-color: white;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+
 footer {
     display: flex;
     font-size: 20px;
     justify-content: center;
     margin-top: 550px;
-    padding: 14px 16px;
+    padding: 14px 550px;
     background-color: #333;
     color: #fff;
 }
