@@ -33,7 +33,6 @@
           </figure>
           <div class="card-content">
             <h2>Kitsune</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur.</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -43,11 +42,10 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="img/Amanozako.jpg" width=300px>
+            <img src="img/Amanozako.jpg" width=350px>
           </figure>
           <div class="card-content">
             <h2>Amanozako</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum explicabo consequatur</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -61,7 +59,7 @@
           </figure>
           <div class="card-content">
             <h2>Azukitogio</h2>
-            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus.</p>
+        
           </div>
           <!-- .card-content -->
         </a>
@@ -75,7 +73,6 @@
           </figure>
           <div class="card-content">
             <h2>baku</h2>
-            <p>  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus.</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -91,7 +88,6 @@
           </figure>
           <div class="card-content">
             <h2>Basan</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus</p>
           </div>
           <!-- .card-content -->
         </a>
@@ -105,7 +101,6 @@
           </figure>
           <div class="card-content">
             <h2>Puchies</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae expedita doloribus</p>
           </div>
           <!-- .card-content -->
         </a>

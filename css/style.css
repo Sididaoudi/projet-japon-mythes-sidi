@@ -2,7 +2,7 @@ body
 {
 	background-color: white;
   margin: 0px;
-
+    position: absolute 0;
 }
 
 ul {
@@ -191,15 +191,21 @@ img.zoom {
       display:none;  
     }
 
+a{
+  color: white;
+}
 
-
-footer {
+footer 
+{
     display: flex;
-
     font-size: 20px;
     justify-content: center;
     margin-top: 20px;
     padding: 14px 50px;
     background-color: #333;
-    color: #fff;
+    padding-top: 0px;
+    color: red;
+    position: absolute; bottom: 0;
+    left: 0; 
+    right: 0;
 }
