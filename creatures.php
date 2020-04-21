@@ -65,10 +65,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="img/Azukitogi.jpg" width="300px">
+            <img src="img/Azukitogi.jpg" width=320px height=500px>
           </figure>
           <div class="card-content">
             <h2>Azukitogio</h2>
+            <a href="Azukitogi.php">Voir la fiche </a> </h3>
         
           </div>
           <!-- .card-content -->
@@ -79,10 +80,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="img/baku.jpg" width=300px>
+            <img src="img/baku.jpg" width=320px height=500px>
           </figure>
           <div class="card-content">
             <h2>baku</h2>
+            <a href="baku.php">Voir la fiche </a> </h3>
           </div>
           <!-- .card-content -->
         </a>
@@ -94,10 +96,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-          <img src="img/Basan.jpg" width=300px>
+          <img src="img/Basan.jpg" width=320px height=500px>
           </figure>
           <div class="card-content">
             <h2>Basan</h2>
+             <a href="Basan.php">Voir la fiche </a> </h3>
           </div>
           <!-- .card-content -->
         </a>
@@ -107,10 +110,11 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-          <img src="img/Chimi-Moryo.jpg" width=300px>
+          <img src="img/Chimi-Moryo.jpg" width=320px height=500px>
           </figure>
           <div class="card-content">
             <h2>Puchies</h2>
+             <a href="Puchies.php">Voir la fiche </a> </h3>
           </div>
           <!-- .card-content -->
         </a>
