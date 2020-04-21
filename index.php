@@ -13,7 +13,6 @@
 <body>
 		<?php include("nav.php"); ?>
 
-<h2>Dernier mythes <
 
 
 
