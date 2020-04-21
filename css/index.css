@@ -171,7 +171,7 @@ input[type=submit]:hover {
 
 
 .column {   
-  float: left;
+  float: lewhite
   width: 75%;
 }
 
@@ -181,9 +181,8 @@ input[type=submit]:hover {
   background: white;
   border: 5px solid black;
   margin-top: 20px;
-  margin-left: 150px;
- 
-
+  margin-left: 30px;
+  width: auto;
 }
 
 p
