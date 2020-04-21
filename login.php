@@ -17,9 +17,7 @@
 <body>
     <div id="logreg-forms">
         <form class="form-signin">
-            <h3 class="h3 mb-3 font-weight-normal" style="text-align: center"> Se connecter</h3>
           
-            <p style="text-align:center"> OR  </p>
             <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
             <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
             
@@ -27,7 +25,8 @@
             <a href="#" id="forgot_pswd">Mot de passe oublié ?</a>
             <hr>
 
-            <a href="#" id="cancel_reset"><i class="fas fa-angle-left"></i> <a href="login.php">Retour</a>
+
+            <a href="#" id="cancel_reset"><i class="fas fa-angle-left"></i> <a href="index.php">Retour sur l'accueil</a>
             </form>
             
           

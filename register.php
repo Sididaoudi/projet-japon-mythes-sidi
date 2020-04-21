@@ -98,6 +98,8 @@ header('location: login.php');
 	
 		<a href="" class="btn btn-block btn-twitter"> <i class="fab fa-twitter-t"></i> <a href="https://twitter.com/explore">Se connecter via Twitter</a>
 		<a href="" class="btn btn-block btn-facebook"> <i class="fab fa-facebook-f"></i> <a href="https://www.facebook.com/">Se connecter via Facebook</a>
+
+		<br>
 	</p>
 
 	<form>
@@ -142,8 +144,12 @@ header('location: login.php');
     <div class="form-group">
         <button type="submit" class="btn btn-primary btn-block"> Créer mon compte  </button>
     </div> <!-- form-group// -->    
+
     <br>  
-    <p class="text-center">Déjà inscrit ? <a href="login.php">Se connecter</a> </p>                                                                 
+    <p class="text-center">Déjà inscrit ? <a href="login.php">Se connecter</a> </p>
+
+    <a href="index.php">Retour à l'accueil</a>
+
 </form>
 </article>
 </div> <!-- card.// -->
