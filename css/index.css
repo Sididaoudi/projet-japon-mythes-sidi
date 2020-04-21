@@ -179,7 +179,7 @@ input[type=submit]:hover {
 .card 
 {
   background: white;
-  border: 5px solid black;
+  border: 1px solid black;
   margin-top: 20px;
   margin-left: 30px;
   width: auto;
