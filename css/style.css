@@ -692,8 +692,7 @@ input[type=submit]:hover {
   background: white;
   border: 1px solid black;
   margin-top: 20px;
-  margin-left: 30px;
-  width: auto;
+  width: 100%;
 }
 
 p
@@ -705,7 +704,7 @@ p
 {
   background: white;
   border: 1px solid black;
-
   position: absolute;
+  top: 310px; left: 540px;
   width: 0 auto;
 }

@@ -98,7 +98,7 @@ header('location: login.php');
 	<h4 class="card-title mt-3 text-center">Créer mon compte</h4>
 	
 		<a href="" class="btn btn-block btn-twitter"> <i class="fab fa-twitter-t"></i> <a href="https://twitter.com/explore">Se connecter via Twitter</a>
-		<a href="" class="btn btn-block btn-facebook"> <i class="fab fa-facebook-f"></i> <a href="https://www.facebook.com/">Se connecter via Facebook</a>
+		<a href="" class="btn btn-block btn-facebook">  <a href="https://www.facebook.com/">Se connecter via Facebook</a>
 
 		<br>
 	</p>
