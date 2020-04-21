@@ -70,9 +70,8 @@
             </div>
             
              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a href="img/Masasumi_Hashihimei.jpg" class="fancybox" rel="ligthbox">
+                <a href="img/Masasumi_Hashihime.jpg" class="fancybox" rel="ligthbox">
                     <img  src="img/Masasumi_Hashihime.jpg" class="zoom img-fluid "  alt="">
-                   
                 </a>
             </div>
             
@@ -121,10 +120,10 @@ $(document).ready(function(){
 </body>
 
 <footer>
-		  
-		  <a href="mentionslegales.php">Mentions légales</a>
+		 
+		 <a href="mentionslegales.php">Mentions légales</a>
 
-		</footer> 
+</footer> 
 
 
 
