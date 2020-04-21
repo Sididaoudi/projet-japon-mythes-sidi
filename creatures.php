@@ -29,10 +29,12 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-          <img src="img/kitsune.jpg" alt="" width=320px height=520px>
+          
+          <img src="img/kitsune.jpg" alt="" width=310px height=520px>
           </figure>
           <div class="card-content">
-            <h2>Kitsune</h2>
+            <h2>Kitsune</h2> <h3> 
+            <a href="kitsune.php">Voir la fiche </a> </h3>
           </div>
           <!-- .card-content -->
         </a>
@@ -46,6 +48,7 @@
           </figure>
           <div class="card-content">
             <h2>Amanozako</h2>
+            <a href="amanozako.php">Voir la fiche </a> </h3>
           </div>
           <!-- .card-content -->
         </a>

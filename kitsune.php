@@ -12,7 +12,7 @@
   <div class="centered">
 
     <div class="site-branding">
-      <h1 class="site-title">Amanozako</h1>
+      <h1 class="site-title">Kitsune</h1>
     </div>
     
   </div>
@@ -29,9 +29,8 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-
           
-          <img src="img/Amanozako.jpg" alt="" width=310px height=520px>
+          <img src="img/kitsune.jpg" alt="" width=310px height=520px>
           </figure>
           <div class="card-content">
             
@@ -39,7 +38,7 @@
 
           <div class="presentation">
 
-         
+          Le terme kitsune (狐 ou きつね) signifie littéralement renard. Il s'agit d'un Yokai, esprit magique doté de puissants pouvoirs. Le kitsune est aussi une créature polymorphe, ayant la capacité de changer de forme et prenant souvent une apparence humaine. Dans le folklore japonais, le kitsune, lorsqu'il est considéré comme bienveillant, est souvent associé à la divinité du riz Inari. Il joue alors le rôle de messager, serviteur et peut aussi apporter la chance avec lui.
 
           </div>
           <!-- .card-content -->
@@ -57,32 +56,3 @@
 
 
 </html>
-
-	<div class="Amanozako">
-
-		<h2>Amanozako</h2>
-
-      <div class="Amanozako">
-      <a href="amanozako.php"><img src="img/Amanozako.jpg" width=350px"></a>
-      </div>
-
-      <div class="prezamanozako">
-      <p>
-      Amanozako (天逆毎?) est une monstrueuse déesse de la mythologie japonaise. On la mentionne notamment dans le Kujiki.
-
-      </p>
-
-  	</div>
-    
-    </div>
-
-	
-
-
-
-
-
-
-
-
-
