@@ -54,15 +54,8 @@
 
 </main>
   
-  <div class="container">
-  <ul class="pagination">
-    <li><a href="creatures.php">1</a></li>
-    <li class="active"><a href="#">2</a></li>
-    <li><a href="#">3</a></li>
-    <li><a href="#">4</a></li>
-    <li><a href="#">5</a></li>
-  </ul>
-</div>
+
+
 
 
 </body>
