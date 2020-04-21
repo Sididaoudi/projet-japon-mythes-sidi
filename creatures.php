@@ -2,11 +2,15 @@
 <html>
 <head>
   <title></title>
-  <link rel="stylesheet" href="css/crea.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+
  <?php include("nav.php"); ?>
+
+<?php include("footer.inc.php"); ?>
+
 
 <header class="masthead clear">
   <div class="centered">
@@ -20,6 +24,9 @@
 </header>
 
 
+
+
+
 <main class="main-area">
 
   <div class="centered">
@@ -30,7 +37,7 @@
         <a href="#">
           <figure class="thumbnail">
           
-          <img src="img/kitsune.jpg" alt="" width=310px height=520px>
+          <img src="img/kitsune.jpg" alt="" width=320px height=500px>
           </figure>
           <div class="card-content">
             <h2>Kitsune</h2> <h3> 
@@ -44,7 +51,7 @@
       <article class="card">
         <a href="#">
           <figure class="thumbnail">
-            <img src="img/Amanozako.jpg" width=350px>
+            <img src="img/Amanozako.jpg" width=320px height=500px>
           </figure>
           <div class="card-content">
             <h2>Amanozako</h2>
@@ -118,17 +125,12 @@
 
 </main>
   
-  <div class="container">
-  <ul class="pagination">
-    <li class="active"><a href="">1</a></li>
-    <li><a href="#">2</a></li>
-    <li><a href="#">3</a></li>
-    <li><a href="#">4</a></li>
-  </ul>
-</div>
+ 
 
 
 </body>
+
+
 
 
 

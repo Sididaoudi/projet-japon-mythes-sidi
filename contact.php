@@ -9,6 +9,8 @@
 <body>
 		<?php include("nav.php"); ?>
 
+		<?php include("footer.inc.php"); ?>
+
 
 <div class="container">
   <form action="action_page.php">
@@ -20,7 +22,7 @@
     <input type="text" id="lname" name="lastname" placeholder="">
 
 
-    <label for="subject">Sujet</label>
+    <label for="subject">Message</label>
     <textarea id="subject" name="subject" placeholder="" style="height:60px"></textarea>
 
     <input type="submit" value="Envoyer">
@@ -66,12 +68,6 @@
 
 
 
-
-		<footer>
-		  
-		  <a href="mentionslegales.php">Mentions légales</a>
-
-		</footer> 
 
 </body>
 

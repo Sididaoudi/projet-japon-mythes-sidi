@@ -12,6 +12,8 @@
 <body>
 		<?php include("nav.php"); ?>
 
+		<?php include("footer.inc.php"); ?>
+
 
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
@@ -119,11 +121,7 @@ $(document).ready(function(){
 
 </body>
 
-<footer>
-		 
-		 <a href="mentionslegales.php">Mentions légales</a>
 
-</footer> 
 
 
 
