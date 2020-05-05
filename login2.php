@@ -5,7 +5,8 @@
 </head>
 <body>
 
-<? php
+<? php 
+
 require('config.php');
 session_start();
 if (isset($_POST['username'])){
@@ -32,12 +33,13 @@ if (isset($_POST['username'])){
   }
 }
 ?>
+
+<h1> test</h1>
 <form class="box" action="" method="post" name="login">
-<h1>test</h1>
+
 <h1 class="box-title">Connexion</h1>
 <input type="text" class="box-input" name="username" placeholder="Nom d'utilisateur">
 <input type="password" class="box-input" name="password" placeholder="Mot de passe">
-<input type="text" class="box-input" name="mail" placeholder="email">
 <input type="submit" value="Connexion " name="submit" class="box-button">
 <p class="box-register">Vous êtes nouveau ici? 
   <a href="register.php">S'inscrire</a>

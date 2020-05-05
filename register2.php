@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-  <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-</head>
-<body>
-
-  <?php
+<?php
 require('config.php');
 if (isset($_REQUEST['username'], $_REQUEST['email'], $_REQUEST['password'])){
   // récupérer le nom d'utilisateur 
@@ -34,6 +23,18 @@ if (isset($_REQUEST['username'], $_REQUEST['email'], $_REQUEST['password'])){
 }else{
 ?>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+
+
 
 <form class="box" action="" method="post">
 
@@ -50,7 +51,7 @@ if (isset($_REQUEST['username'], $_REQUEST['email'], $_REQUEST['password'])){
 		<br>
 	</p>
 
-	<form>
+	<form class="box" action="" method="post">
 	<div class="form-group input-group">
 		<div class="input-group-prepend">
 		    <span class="input-group-text"> <i class="fa fa-user"></i> </span>
